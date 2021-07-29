@@ -1,0 +1,2 @@
+# isPrimeJS
+Created with CodeSandbox
